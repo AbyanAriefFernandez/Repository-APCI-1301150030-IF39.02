@@ -1,0 +1,8 @@
+Program Hello;
+User Crt;
+Begin
+    Clrscr;
+    writein('Hello Word')
+End
+    
+    
