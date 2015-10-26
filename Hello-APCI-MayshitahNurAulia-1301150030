@@ -1,8 +1,14 @@
-Program Hello;
+Program APCI-1301150030
 User Crt;
 Begin
     Clrscr;
-    writein('Hello Word')
+    writein('Hello');
+    writein('1301150030')
+    writein('abyan arief')
+    writein('IF39.02')
+    writein('maysyitha')
+    writein('1301154198')
+    writein('MODUL6')
 End
     
     
